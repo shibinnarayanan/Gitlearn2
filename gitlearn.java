@@ -6,6 +6,8 @@ public class Test()
           System.out.println("Hi");
           System.out.println("New changes in repository");
           System.out.println("New changes added from local repo");
+          System.out.println("New changes in repository 2");
+
       }
 
 }
